@@ -1,0 +1,73 @@
+* {font-family: 'Slabo 27px', serif;}
+body {background-color: #e1e1e1;
+      margin: auto;
+        text-align: center;}
+
+/*For Index section.*/
+
+.logo img {width: 100px;
+          margin-right: 10px;}
+.restaurant {display: inline-block;
+            position: static;
+            margin-top: 50px;}
+            
+.logo li {display: inline-block;
+         font-size: 30px;}
+#navul {display: inline-block;}
+    
+#home {margin-left: 15px;}
+#about {margin-left: 30px;}
+#menu {margin-left: 30px;}
+#contact {margin-left: 30px;}
+
+li a {text-decoration: none;}
+
+
+#images {margin-top: 7%;}
+
+#picture-1{display: inline-block;
+    width:30%;
+    min-width:300px;
+    margin-left: 5px;}
+
+#picture-2{display: inline-block;
+    width:30%;
+    min-width:300px;
+    margin-left: 5px;}
+
+#picture-3{display: inline-block;
+    width:30%;
+    min-width:300px;
+    margin-left: 5px;
+    margin-right: 5px;}
+
+h1{font-size: 90px;
+   /* position: relative;
+    top: -153px;
+    left: 125px;*/
+    margin-bottom: 0px;
+    display: inline-block;}
+
+.foot {margin-top: 50px;}
+.foot ul {display: inline-block;}
+.foot li {display: inline-block;}
+.foot img {width: 30px;}
+
+
+
+/*For Menu section.*/
+.logom img {width: 100px;
+          margin-right: 10px;}
+          
+#menu ul {list-style-type: none;
+        padding: 0;
+        margin: 0;}
+        
+/*#bfast {display: inline-block;}
+#lunner {display: inline-block;}
+#dessert {display: inline-block;}
+#drinks {display: inline-block;}*/
+
+.menudiv {display: inline-block;
+        border: 2px double black;}
+.menudescription {font-size: 10px;}
