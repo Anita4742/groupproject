@@ -69,6 +69,7 @@ h1{font-size: 90px;
 #lunner {display: inline-block;}
 #dessert {display: inline-block;}
 #drinks {display: inline-block;}*/
+/*Does the above count as a separate comment? In which case, does this one?*/
 
 .menudiv {display: inline-block;
         border: 2px double black;
@@ -146,80 +147,141 @@ button {
 /* About Us Page */
 
 #about_food {
-    margin-top: 7%;
-    width: 100%;
-    height: 297.5px;
+    margin-top: 50px;
+    text-align: center;
 }
 
 #about_food_image {
     width: 450px;
+    margin-left: 100px;
+    margin-right: 35px;
+    margin-bottom: 15px;
     display: inline-block;
 }
 
 #about_food h2 {
     display: inline-block;
+    vertical-align: top;
+    font-size: 30px;
+    margin-bottom: 0px;
 }
 
 #about_food p {
-    display: inline-block
+    display: inline-block;
+    margin-right: 100px;
+    width: 345px;
+    text-align: left;
+    position: relative;
+    left: -265px;
+    top: -55px;
+    margin-bottom: 0px;
 }
 
 #about_restaurant {
-    margin-top: 7%;
-    width: 100%;
-    height: 297.5px;
-    display: inline-block;
+  margin-top: 0px;
+  text-align: center;
 }
 
 #about_restaurant_image {
     width: 450px;
+    margin-left: 100px;
+    margin-right: 35px;
+    margin-bottom: 15px;
+    margin-top: 0px
     display: inline-block;
 }
 
 #about_restaurant h2 {
     display: inline-block;
+    vertical-align: top;
+    font-size: 30px;
+    text-align: left;
+    margin-bottom: 0px;
+    margin-right: 100px;
+    width: 613px;
 }
 
 #about_restaurant p {
-    display: inline-block
+    display: inline-block;
+    margin-right: 100px;
+    width: 400px;
+    height: 0px;
+    text-align: left;
+    position: relative;
+    margin-bottom: 0px;
+    left: 197px;
+    top: -300px;
 }
 
 #about_location {
-    margin-top: 7%;
-    width: 100%;
-    height: 297.5px;
-    display: inline-block;
+    margin-top: 0px;
+    text-align: center;
 }
 
 #about_location_image {
     width: 450px;
+    margin-top: -250px;
+    margin-left: 100px;
+    margin-right: 35px;
+    margin-bottom: 15px;
     display: inline-block;
 }
 
 #about_location h2 {
     display: inline-block;
+    vertical-align: top;
+    margin-top: -250px;
+    font-size: 30px;
+    text-align: left;
+    margin-bottom: 0px;
+    margin-right: 100px;
+    width: 613px;
 }
 
 #about_location p {
-    display: inline-block
+    margin-right: 100px;
+    width: 450px;
+    height: 0px;
+    text-align: left;
+    position: relative;
+    left: 590px;
+    top: -300px;
+    margin-bottom: 0px;
 }
 
 #about_chef {
-    margin-top: 7%;
-    width: 100%;
-    height: 297.5px;
-    display: inline-block;
+    margin-top: 0px;
+    text-align: center;
+    margin-bottom: 0px;
 }
 
 #about_chef_image {
     width: 450px;
+    margin-left: 100px;
+    margin-right: 35px;
+    margin-bottom: 0px;
+    margin-top: 0px
     display: inline-block;
 }
 
 #about_chef h2 {
     display: inline-block;
+    vertical-align: top;
+    font-size: 30px;
+    text-align: left;
+    margin-bottom: 0px;
+    margin-right: 100px;
+    width: 613px;
 }
 
 #about_chef p {
-    display: inline-block
+    display: inline-block;
+    margin-right: 100px;
+    width: 475px;
+    height: 0px;
+    text-align: left;
+    position: relative;
+    left: 220px;
+    top: -290px;
+    margin-bottom: 0px;
 }

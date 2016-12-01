@@ -24,7 +24,7 @@ ul {list-style-type: none;
             bottom: 10px;
             padding-right: 1em;}
             
-li {display: inline-block;
+#login {display: inline-block;
     text-align: center;
     padding-right: .5em;
     padding-left: .5em;
@@ -97,5 +97,3 @@ li {display: inline-block;
              height: 30px;
              width: 15vw;
             font-size: 12px;}
-             
-             
